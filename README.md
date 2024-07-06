@@ -21,10 +21,11 @@ Navigate to the backend directory.
 
 ### Install dependencies:
 
-npm install
-Start the backend server:
+- npm install
 
-npm start
+### Start the backend server:
+
+- npm start
 
 ## Frontend
 
@@ -32,8 +33,9 @@ Navigate to the frontend directory.
 
 ### Install dependencies:
 
-npm install
-Start the frontend development server:
+- npm install
 
-### npm start
+### Start the frontend development server:
+
+-  npm start
 This will start the backend server on port 1000 and the frontend server on port 3000. You can access the application at http://localhost:3000.
