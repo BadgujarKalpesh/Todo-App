@@ -16,7 +16,7 @@ This is a simple Todo List application built using the MERN stack (MongoDB, Expr
 ## Image
 
 ### Home Page
-![Screenshot 2024-07-06 120215](https://github.com/BadgujarKalpesh/Todo-App/assets/89139455/b077843c-a83b-41dd-8dce-91bd700d2680)
+![Screenshot 2024-07-06 120811](https://github.com/BadgujarKalpesh/Todo-App/assets/89139455/32de46bc-cda5-4391-8443-3eafcd2feea0)
 
 ### Sign Up Page
 ![Screenshot 2024-07-06 120236](https://github.com/BadgujarKalpesh/Todo-App/assets/89139455/bbd35078-94bc-4350-9406-d25dbec3bb05)
